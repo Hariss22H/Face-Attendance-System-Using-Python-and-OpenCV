@@ -84,6 +84,19 @@ Browse attendance logs stored by subject & date → Export as CSV files for repo
 
 ## 📸 Screenshots
 
+### 🖥️ User Interface
+(![Screenshot 2025-04-10 205859](https://github.com/user-attachments/assets/c2c6afca-c191-45a5-8ecb-503de179a44c))
+
+### 👤 Face Registration Interface
+(![Screenshot 2025-04-10 211243](https://github.com/user-attachments/assets/46bce8e5-391c-408c-85ec-caba764bd21b))
+
+### 🎯 Real-Time Attendance Tracking
+(![Screenshot 2024-11-09 200511](https://github.com/user-attachments/assets/114a9e75-d7ff-4476-a3a7-82710afa520e))
+
+### 📊 Auto-Generated CSV Log
+(![7](https://github.com/user-attachments/assets/a0a2d9b7-3cb3-4413-9347-dcbde768830d))
+
+
 --
 ## 🙋‍♂️ Author
 
